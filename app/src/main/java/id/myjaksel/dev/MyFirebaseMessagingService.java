@@ -52,7 +52,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
         // message, here is where that should be initiated. See sendNotification method below.
 
         //if (remoteMessage.getData().containsKey("url")) {
-            String url = remoteMessage.getData().get("ldink");
+            String url = remoteMessage.getData().get("link");
 
 
             // Open WebViewActivity and pass the URL
