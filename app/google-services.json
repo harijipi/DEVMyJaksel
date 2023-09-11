@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084586929206",
+    "project_id": "devappmyjaksel",
+    "storage_bucket": "devappmyjaksel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084586929206:android:4fa025c524d31bd7303c97",
+        "android_client_info": {
+          "package_name": "id.myjaksel.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084586929206-667pb3lf0et1plpu4jar8kl04emq11nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7vyUrWjZOTAP6nwV2ec-8a8YNbaKrZaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084586929206-667pb3lf0et1plpu4jar8kl04emq11nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
